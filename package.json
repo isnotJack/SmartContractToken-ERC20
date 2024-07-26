@@ -1,0 +1,19 @@
+{
+  "name": "smartcontracttoken-erc20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnotJack/SmartContractToken-ERC20.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isnotJack/SmartContractToken-ERC20/issues"
+  },
+  "homepage": "https://github.com/isnotJack/SmartContractToken-ERC20#readme"
+}
