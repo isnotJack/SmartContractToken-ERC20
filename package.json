@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/isnotJack/SmartContractToken-ERC20/issues"
   },
-  "homepage": "https://github.com/isnotJack/SmartContractToken-ERC20#readme"
+  "homepage": "https://github.com/isnotJack/SmartContractToken-ERC20#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
 }
